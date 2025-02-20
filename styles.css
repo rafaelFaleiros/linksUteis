@@ -73,7 +73,7 @@ h1, h2 {
   font-size: 14px;
   display: flex;
   align-items: center;
-  gap: 5px;
+  gap: 10px;
 }
 .menu-right a img {
   width: 20px;
